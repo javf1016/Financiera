@@ -8,7 +8,8 @@
 
 La colección de Postman para el proyecto se encuentra en el siguiente enlace:
 
-[FlyPass.postman_collection.json](https://github.com/javf1016/Images/tree/main/FlyPass)
+[Descargar FlyPass.postman_collection.json](https://github.com/javf1016/Images/raw/main/FlyPass/FlyPass.postman_collection.json)
+
 
 ## API
 ### Endpoint 1: Crear un cliente
